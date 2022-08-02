@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TChord22
 - 👀 I’m interested in bettering myself
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Python
 - 📫 How to reach me webdev123321@gmail.com
 
 <!---
