@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TChord22
+- 👋 Hi, I’m Tasha (HubStack)
 - 👀 I’m interested in bettering myself
-- 🌱 I’m currently learning React and Python
-- 📫 How to reach me webdev123321@gmail.com
+- 📫 How to reach me tashawillowsstaples@gmail.com
 
 <!---
 TChord22/TChord22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
